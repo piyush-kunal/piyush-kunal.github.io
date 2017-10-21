@@ -135,7 +135,7 @@ html, body {
                 left: 4px;
             }
             h2 {
-                color: #484f4f;
+                color: #f9f9f9;
                 font-weight: 300;
                 font-size: 20px;
                 letter-spacing: .12em;
@@ -163,7 +163,7 @@ html, body {
                 vertical-align: bottom;
             }
             a {
-                color: #999;
+                color: #dbdbdb;
                 text-decoration: none;
                 transition: color .2s ease;
             }
@@ -177,8 +177,8 @@ html, body {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #b61924;
-  background-image: url('background.jpg');
+  background-color: #19223d;
+/*   background-image: url('background.jpg'); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
